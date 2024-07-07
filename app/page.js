@@ -12,14 +12,14 @@ export default function Home() {
     <div className="flex flex-col py-2 pb-14 italic text-center gap-3 p-3 h-[100%] w-[100%]">
       <div className="flex flex-row items-center justify-center">
         <h1 className="font-bold  uppercase text-[20px] italic">
-          Nothing Just Wanted to Say{" "}
+          Nothing Just Wanted to Say 👋
           <p className="inline-block text-red-600">"AUNTY"</p>
         </h1>
         <Image src={Hii} alt="Hii" className="w-[100px] h-[100px]" />
       </div>
       <div className="flex flex-col items-center justify-center">
         <h4 className="text-center">
-          I found your childhood photo, Don't feel embrassed you are
+          I found your childhood photo, Don't feel shy😶‍🌫️ you are
           gorgeous😂😆🙈🙈🙈
         </h4>
         <h4>
@@ -52,7 +52,11 @@ export default function Home() {
           <div className="mlg:hidden">
             <h3>Compare the Side clips🤣🤣🤣</h3>
 
-            <Image src={p2} alt="She" className="max-w-[400px]" />
+            <Image
+              src={p2}
+              alt="She"
+              className="max-w-[400px] msmmm:w-[300px]"
+            />
           </div>
           <div className="flex mlg:pt-6 items-center text-center flex-col justify-center text-green-500">
             <h3>And I'm still 6 month's Kid Discovering Hiiden Facts</h3>
