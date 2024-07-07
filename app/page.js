@@ -55,7 +55,7 @@ export default function Home() {
             <Image
               src={p2}
               alt="She"
-              className="max-w-[400px] msmmm:w-[300px]"
+              className="max-w-[400px] msmmm:w-[250px]"
             />
           </div>
           <div className="flex mlg:pt-6 items-center text-center flex-col justify-center text-green-500">
